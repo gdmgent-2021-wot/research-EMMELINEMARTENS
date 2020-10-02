@@ -1,0 +1,16 @@
+{
+  "name": "workshop_start_to_code",
+  "version": "1.0.0",
+  "main": "index.md",
+  "repository": "https://github.com/gdmgent-2021-wot/research-EMMELINEMARTENS.git",
+  "author": "EMMELINEMARTENS",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy":"./deploy.sh"
+  }
+}
