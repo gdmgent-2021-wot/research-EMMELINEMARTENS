@@ -1,7 +1,7 @@
 {
   "name": "workshop_start_to_code",
   "version": "1.0.0",
-  "main": "index.md",
+  "main": "docs/dist/index.html",
   "repository": "https://github.com/gdmgent-2021-wot/research-EMMELINEMARTENS.git",
   "author": "EMMELINEMARTENS",
   "license": "MIT",
