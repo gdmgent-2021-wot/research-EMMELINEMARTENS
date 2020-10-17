@@ -38,7 +38,8 @@ Nu je mbot gekoppeld is kunnen we beginnen met de mbot te programmeren
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-RFeI0YjC0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### mbot muziek laten maken 
-
+Bekijk de tutorial dat ik zelf heb gemaakt en doe hem na zo kan je mbot muziek maken. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rESlGLjc0uY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### mbot laten dansen
 
