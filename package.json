@@ -11,6 +11,10 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy":"./deploy.sh"
+    "deploy": "./deploy.sh"
+  },
+  "dependencies": {
+    "firebase": "^7.24.0",
+    "firebase-tools": "^8.12.1"
   }
 }

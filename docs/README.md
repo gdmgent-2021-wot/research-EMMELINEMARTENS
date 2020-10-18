@@ -1,11 +1,12 @@
 ## Leren programmeren doe je zo!
 
-### wat is programmeren?
+### Wat is programmeren?
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fi5M4hKpcCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### tot welke doelgroep is dit manual gericht?
-Het hoofddoel van dit  manual dat ik heb opgesteld is voor 5de en 6de middelbaar om zo op een speelse manier te weten te komen wat programmeren nu effectief is. 
-Het is zeker niet het ordinaire programmeren. Het is bedoelt als een kennismaking maar dat we wel langzaam opbouwen naar wat programmmeren nu echt is. 
+### Tot welke doelgroep is dit manual gericht?
+Het hoofddoel van deze handleiding dat ik heb opgesteld voor het 5de en 6de middelbaar is om op een speelse manier te weten te komen wat programmeren nu effectief is. 
+Het is zeker niet het ordinaire programmeren. Het is bedoelt als een kennismaking maar dat we wel langzaam opbouwen naar wat programmeren nu echt is. 
 
 ### In welke talen leer je hier programmeren?
 <ul>
@@ -14,12 +15,12 @@ Het is zeker niet het ordinaire programmeren. Het is bedoelt als een kennismakin
 <li>Python</li>
 </ul>
 
-### benodigheden voor deze cursus?
+### Benodigheden voor deze cursus?
 <ul>
 <li>Mbot</li>
-<li>Micro USB kabel</li>
-<li>computer met visual studio code</li>
-<li>raspberry pi</li>
+<li>Micro USB-B kabel</li>
+<li>Computer met visual studio code</li>
+<li>Raspberry pi</li>
 </ul>
 
 ### Wat ga ik je leren maken ?
@@ -30,5 +31,7 @@ Het is zeker niet het ordinaire programmeren. Het is bedoelt als een kennismakin
 [Snake game in Javascript](guide/js)
 
 [Snake game op de raspberry pi](guide/rasp)
+
+[github repo voor projecten](https://github.com/EMMELINEMARTENS/snakeGame_WOT)
 
 
